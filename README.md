@@ -26,7 +26,7 @@
 
 <h3 align="left">Monitoramento</h3>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://www.zabbix.com" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Zabbix_logo." alt="Zabbiz" width="40" height="40"/> </a>
+<a href="https://www.zabbix.com" target="_blank" rel="noreferrer"> <img src="[https://commons.wikimedia.org/wiki/File:Zabbix_logo.](https://upload.wikimedia.org/wikipedia/commons/5/5d/Zabbix_logo_square.svg)" alt="Zabbiz" width="40" height="40"/> </a>
 
 <h3 align="left">Sistemas</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
