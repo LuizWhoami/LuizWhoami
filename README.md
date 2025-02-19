@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Sou Luiz</h1>
+<h1 align="center">Olá, Sou LuizWhoami</h1>
 <h3 align="center">Devloper</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizwhoami" alt="luizwhoami" /></a> </p>
@@ -14,9 +14,9 @@
 
 <h3 align="left">FrameWorks:</h3>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
 <h3 align="left">Bancos de Dados</h3>
@@ -26,10 +26,11 @@
 
 <h3 align="left">Monitoramento</h3>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://www.zabbix.com" target="_blank" rel="noreferrer"> <img src="[https://commons.wikimedia.org/wiki/File:Zabbix_logo.](https://upload.wikimedia.org/wikipedia/commons/5/5d/Zabbix_logo_square.svg)" alt="Zabbiz" width="40" height="40"/> </a>
+<a href="https://www.zabbix.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zabbix_logo_square.svg" alt="Zabbiz" width="40" height="40"/> </a>
 
 <h3 align="left">Sistemas</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/pt-br/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/windows.svg" alt="Windows" width="40" height="40"/> </a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizwhoami&show_icons=true&locale=en&layout=compact" alt="luizwhoami" /></p>
