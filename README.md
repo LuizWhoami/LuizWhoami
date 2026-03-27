@@ -1,7 +1,6 @@
 <h1 align="center">Olá, Sou LuizWhoami</h1>
 <h3 align="center">Devloper</h3> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizwhoami" alt="luizwhoami" /></a> </p>
 
 - projetos apresentativos [Site](https://luizwhoami.github.io/portfolio/projeto.html)
 
