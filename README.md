@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Sou LuizWhoami</h1>
-<h3 align="center">Devloper</h3> 
+<h3 align="center">Devloper</h3>  
 
 
 - projetos apresentativos [Site](https://luizwhoami.github.io/portfolio/projeto.html)
