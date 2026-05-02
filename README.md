@@ -2,7 +2,7 @@
 <h3 align="center">Devloper</h3>  
 
 
-<h2> PortFolio href='https://luizwhoami.github.io/portfolio/projeto.html' </h2> 
+<a href='https://luizwhoami.github.io/portfolio/projeto.html'>Portfolio </a> 
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
