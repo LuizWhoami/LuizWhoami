@@ -45,7 +45,7 @@ text
 
 ## 🔧 **Stack Técnica** (Comandos carregados...)
 
-```bash
+bash
 $ show_skills --all
 🐍 Linguagens
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
@@ -74,7 +74,7 @@ https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoCol
 https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 
 📈 Estatísticas do Sistema
-bash
+
 $ stats --show
 <div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizwhoami&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" alt="Top Langs" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api?username=luizwhoami&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="GitHub Stats" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizwhoami&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak Stats" /> </td> </tr> </table> </div>
 🕹️ Comandos Rápidos
