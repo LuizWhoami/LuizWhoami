@@ -1,132 +1,280 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Luiz;Python+%26+Django+Developer;Cybersecurity+Enthusiast;Building+Systems+%26+Automation;Explorando+Offensive+Security" alt="Typing SVG" />
-</div>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+sou+Luiz;Python+%26+Django+Developer;Cybersecurity+Enthusiast;Building+Systems+%26+Automation;Explorando+Offensive+Security" alt="Typing SVG" />
 
-<div align="center">
-  <a href="https://luizwhoami.github.io/portfolio/projeto.html">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-00FF41?style=for-the-badge&logo=about.me&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=protonmail&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/luizwhoami">
-    <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
-  </a>
+<br><br>
+
+<a href="https://luizwhoami.github.io/portfolio/projeto.html">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-00FF41?style=for-the-badge&logo=about.me&logoColor=black" alt="Portfólio" />
+</a>
+<a href="https://github.com/luizwhoami">
+  <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+</a>
+
 </div>
 
 ---
 
+## 👤 Sobre mim
+
 ```bash
 $ whoami
-> LuizWhoami
-> Developer | Cybersecurity Enthusiast
-> Localização: Brasil
-> Stack principal: Python, Django, Flutter
-> Ambiente: Linux, Git, Docker
-> Foco: Desenvolvimento de sistemas + Segurança Ofensiva
+
+LuizWhoami
+Developer | Cybersecurity Enthusiast
+
+$ focus
+Desenvolvimento de sistemas + Cybersecurity
+
+$ stack
+Python | Django | Flutter
+
+$ environment
+Linux | Git | Docker
 ```
-👤 Sobre mim
-Sou desenvolvedor com experiência prática em Python, Django e Flutter, construindo sistemas web, automações e APIs. Atualmente, divido meu tempo entre o desenvolvimento de projetos reais — como sistemas de gestão e plataformas de estudo — e o estudo de cybersecurity, com ênfase em pentest, web security e laboratórios práticos.
 
-Acredito que a melhor forma de aprender é construindo, por isso mantenho um portfólio ativo de projetos que resolvem problemas concretos. Estou sempre expandindo meu conhecimento para arquiteturas escaláveis, DevOps e segurança de aplicações.
+Sou desenvolvedor focado na construção de sistemas, aplicações web, automações e APIs utilizando principalmente **Python e Django**.
 
-🛠️ Stack Técnica
-Linguagens
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+Também estudo **Cybersecurity**, explorando segurança de aplicações, APIs, Linux, CTFs e ambientes de laboratório controlados.
 
-Backend
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
+Meu objetivo é unir **desenvolvimento de software + segurança**, criando aplicações mais robustas, organizadas e seguras.
 
-Mobile / Frontend
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+Acredito que a melhor forma de aprender é **construindo projetos reais**, testando ideias e documentando o que aprendo ao longo do caminho.
 
-Automação
-https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white
-https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white
+---
 
-Bancos de Dados
-https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
+# 🛠️ Stack Técnica
 
-DevOps & Infra
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white (em aprendizado)
+### 🐍 Linguagens
 
-Monitoramento
-https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
-https://img.shields.io/badge/Zabbix-FF0000?style=for-the-badge&logo=zabbix&logoColor=white
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-🛡️ Jornada em Cybersecurity
-Estudo segurança ofensiva de forma prática, com foco em:
+### ⚙️ Backend
 
-Web Security (OWASP Top 10, injeções, XSS, CSRF)
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+</p>
 
-API Security (autenticação, autorização, rate limiting)
+### 📱 Frontend / Mobile
 
-Pentest (reconhecimento, exploração, pós-exploração)
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
-Linux (administração, hardening, forense)
+### 🤖 Automação
 
-CTFs (desafios práticos para desenvolvimento de habilidades)
+<p>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyAutoGUI" />
+</p>
 
-Laboratórios (ambientes controlados para testes)
+### 🗄️ Bancos de Dados
 
-Meu objetivo é unir desenvolvimento seguro e hacking ético para construir sistemas mais robustos. Toda prática é realizada em ambientes autorizados e com foco educacional.
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
+</p>
 
-🚀 Projetos em Destaque
-Projeto	Descrição	Tecnologias	Status	Link
-LS Barbershop	Sistema de gestão e agendamento para barbearias, com painel administrativo e interface para clientes.	Django, PostgreSQL, Bootstrap	🟢 Em produção	Repositório (placeholder)
-LS Tech	Site institucional e portfólio de serviços de desenvolvimento de sistemas e websites.	Django, HTML, CSS	🟢 Ativo	Site
-Sistema de Estudos	Plataforma para organização de estudos, com calendário, flashcards, questões e métricas de produtividade.	Django, JavaScript, SQLite	🟡 Em desenvolvimento	Repositório (placeholder)
-Cyber Notes	Caderno digital e laboratório para anotações e práticas de cybersecurity, com exemplos de exploração e defesa.	Markdown, Python, Bash	🟢 Uso pessoal	Repositório (placeholder)
-🔭 Em construção
-Atualmente dedicando tempo a:
+### 🐳 DevOps & Infraestrutura
 
-Aplicações Django com arquitetura escalável e APIs REST
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
-SaaS (estudo de modelos de negócio e implementação)
+### 📊 Monitoramento
 
-Ferramentas de automação em Python (web scraping, RPA)
+<p>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/Zabbix-FF0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+</p>
 
-Laboratórios de cybersecurity (HackTheBox, TryHackMe, DVWA)
+---
 
-Plataforma de estudos com gamificação e analytics
+# 🛡️ Cybersecurity
 
-🌱 Aprendendo agora
-Rust – para sistemas de alta performance e segurança
+```text
+Cybersecurity Journey
+────────────────────────────────────
 
-Kubernetes – orquestração de contêineres em produção
+Web Security
+├── OWASP Top 10
+├── XSS
+├── CSRF
+└── Injection
 
-Arquitetura de sistemas – microsserviços, filas, caching
+API Security
+├── Authentication
+├── Authorization
+├── Access Control
+└── Rate Limiting
 
-DevOps – CI/CD, infraestrutura como código
+Offensive Security
+├── Reconhecimento
+├── Web Pentest
+├── API Pentest
+└── Exploração em ambientes controlados
 
-📊 Estatísticas do GitHub
-<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizwhoami&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41" alt="Top Langs" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api?username=luizwhoami&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="GitHub Stats" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizwhoami&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="Streak Stats" /> </td> </tr> </table> </div>
-🖥️ Comandos rápidos (tema terminal)
-bash
+Labs
+├── CTFs
+├── Hack The Box
+├── TryHackMe
+└── Ambientes de laboratório
+```
+
+Estudo **segurança ofensiva de forma prática e responsável**, utilizando ambientes próprios, CTFs e laboratórios autorizados.
+
+Meu objetivo é compreender como aplicações podem ser exploradas para, posteriormente, desenvolver sistemas mais seguros e resilientes.
+
+---
+
+# 🚀 Projetos em Destaque
+
+### 💈 LS Barbershop
+
+Sistema de gestão e agendamento desenvolvido para uma barbearia, com foco em organização operacional e gerenciamento do negócio.
+
+**Stack:** Django • PostgreSQL • Bootstrap
+
+**Status:** 🟢 Em produção
+
+---
+
+### 💻 LS Tech
+
+Projeto voltado ao desenvolvimento de websites, sistemas personalizados e soluções digitais para empresas.
+
+**Stack:** Django • HTML • CSS • JavaScript
+
+**Status:** 🟢 Ativo
+
+**Website:** [lsbarbershop.tech](https://lsbarbershop.tech)
+
+---
+
+### 📚 Sistema de Estudos
+
+Plataforma para organização de estudos, com recursos como calendário, questões, flashcards, métricas e gerenciamento de disciplinas.
+
+**Stack:** Django • JavaScript • SQLite
+
+**Status:** 🟡 Em desenvolvimento
+
+---
+
+### 🧪 Cyber Notes
+
+Ambiente pessoal para documentação dos estudos de cybersecurity, anotações técnicas e organização de laboratórios.
+
+**Stack:** Markdown • Python • Bash
+
+**Status:** 🟢 Em desenvolvimento
+
+---
+
+# 🔭 Em construção
+
+Atualmente estou trabalhando e estudando:
+
+```text
+→ Aplicações Django
+→ APIs REST
+→ Arquitetura de sistemas
+→ SaaS
+→ Automação com Python
+→ Cybersecurity Labs
+→ Web & API Security
+→ Plataformas de estudo
+→ DevOps
+```
+
+---
+
+# 🌱 Atualmente aprendendo
+
+<p>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+Também estou aprofundando conhecimentos em:
+
+* Arquitetura de sistemas
+* APIs
+* Containers
+* CI/CD
+* Infraestrutura
+* Segurança de aplicações
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizwhoami&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizwhoami&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luizwhoami&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 🖥️ Terminal
+
+```bash
 $ help
+
 ┌─────────────┬────────────────────────────────────────────┐
-│ Comando     │ Descrição                                 │
+│ Comando     │ Descrição                                  │
 ├─────────────┼────────────────────────────────────────────┤
-│ about       │ Exibe informações sobre mim               │
-│ skills      │ Lista toda a stack técnica                │
-│ projects    │ Mostra os projetos em destaque            │
-│ security    │ Resumo da jornada em cybersecurity        │
-│ contact     │ Links para redes sociais e email          │
-│ stats       │ Visualiza estatísticas do GitHub          │
+│ about       │ Informações sobre mim                      │
+│ skills      │ Stack técnica                              │
+│ projects    │ Projetos em destaque                       │
+│ security    │ Jornada em cybersecurity                   │
+│ learning    │ O que estou estudando                      │
+│ stats       │ Estatísticas do GitHub                     │
 └─────────────┴────────────────────────────────────────────┘
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=luizwhoami&label=VISITAS&color=00FF41&style=flat-square" alt="Visitor Count" /> <br><br> <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&text=System%20online.%20Keep%20building.&fontSize=20&fontColor=0D1117&animation=twinkling" /> </div> ```
+```
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="https://github.com/luizwhoami">
+<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+</a>
+
+<a href="https://luizwhoami.github.io/portfolio/projeto.html">
+<img src="https://img.shields.io/badge/Portfólio-00FF41?style=for-the-badge&logo=about.me&logoColor=black" alt="Portfólio" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=luizwhoami&label=VISITAS&color=00FF41&style=flat-square" alt="Visitor Count" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&text=System%20online.%20Keep%20building.&fontSize=20&fontColor=0D1117&animation=twinkling" alt="System online" />
+
+</div>
