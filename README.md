@@ -157,7 +157,6 @@ Projeto voltado ao desenvolvimento de websites, sistemas personalizados e soluç
 **Stack:** Django • HTML • CSS • JavaScript
 
 **Status:** 🟢 Ativo
-
 **Website:** [lstech.de.br](lstech.dev.br)
 
 ---
