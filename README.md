@@ -158,7 +158,7 @@ Projeto voltado ao desenvolvimento de websites, sistemas personalizados e soluç
 
 **Status:** 🟢 Ativo
 
-**Website:** [lsbarbershop.tech](https://lsbarbershop.tech)
+**Website:** [lstech.de.br](lstech.dev.br)
 
 ---
 
@@ -168,7 +168,8 @@ Plataforma para organização de estudos, com recursos como calendário, questõ
 
 **Stack:** Django • JavaScript • SQLite
 
-**Status:** 🟡 Em desenvolvimento
+**Status:** 🟢 Ativo
+**Website:** [lsstudy.lstech.dev.br](lsstudy.lstech.dev.br)
 
 ---
 
