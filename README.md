@@ -29,6 +29,7 @@ $ whoami
 > Stack principal: Python, Django, Flutter
 > Ambiente: Linux, Git, Docker
 > Foco: Desenvolvimento de sistemas + Segurança Ofensiva
+```
 👤 Sobre mim
 Sou desenvolvedor com experiência prática em Python, Django e Flutter, construindo sistemas web, automações e APIs. Atualmente, divido meu tempo entre o desenvolvimento de projetos reais — como sistemas de gestão e plataformas de estudo — e o estudo de cybersecurity, com ênfase em pentest, web security e laboratórios práticos.
 
