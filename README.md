@@ -268,7 +268,6 @@ $ help
 </div>
 
 ---
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=luizwhoami&label=VISITAS&color=00FF41&style=flat-square" alt="Visitor Count" />
