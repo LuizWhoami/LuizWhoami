@@ -10,7 +10,7 @@
 <a href="https://github.com/luizwhoami">
   <img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
 </a>
-
+ 
 </div>
 
 ---
