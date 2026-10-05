@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+sou+Luiz;Cybersecurity+Student;Red+Team+%7C+Pentest;Python+%26+Django+Developer;Linux+%7C+Web+Security" alt="Typing SVG" />
-
+ 
 <br><br>
 
 <a href="https://luizwhoami.github.io/portfolio/">
