@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Luiz+%F0%9F%91%8B;Cybersecurity+Student;Red+Team+%7C+Web+Pentesting;Python+%7C+Django+Developer;Linux+%7C+Network+Security" alt="Typing SVG" />
 
 <br>
-
+ 
 **Cybersecurity Student | Offensive Security | Python Developer**
 
 <br>
